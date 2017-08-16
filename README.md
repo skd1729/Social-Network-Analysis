@@ -1,5 +1,5 @@
 # Social-Network-Analysis
-This repository contains the code for the following activities
+This repository contains the code for the following activities. Some of the codes presented here were a part of coursework at UIC.
 
   a. Creation of network graph through igraph module in R
   
